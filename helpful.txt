@@ -1,0 +1,2 @@
+#Start docker file
+docker-compose up -d
